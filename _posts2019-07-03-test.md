@@ -1,1 +1,0 @@
-First test blog entry.
